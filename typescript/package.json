@@ -1,0 +1,10 @@
+{
+  "name": "datadome-sensor-client",
+  "version": "1.0.0",
+  "description": "Enterprise DataDome v4.x Sensor Emulation Client",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": ["datadome", "bot-detection", "telemetry", "anti-bot", "fingerprint"],
+  "author": "Aether Protocol Labs",
+  "license": "MIT"
+}
